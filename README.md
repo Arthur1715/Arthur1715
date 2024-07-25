@@ -1,7 +1,7 @@
 Olá Eu sou o Arthur Carvalho.
 
-- 🔭 Travalho hoje com suporte.
-- 🌱 Sou formado em Tecnologia em análise e desenvolvimento de sistmeas, faço pós graduação em governança em tecnologia da informação, e estudo C#
+- 🔭 Trabalho hoje com suporte.
+- 🌱 Sou formado no curso de Tecnologia em análise e desenvolvimento de sistmeas, faço pós graduação em governança em tecnologia da informação, e estudo C#
 - 📫 Pode me contatar no email: carvalho4044@gmail.com
 - 😄 Ele/Dele
   ##
